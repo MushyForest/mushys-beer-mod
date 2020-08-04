@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item":"minecraft:wheat"
+    },
+    {
+      "item":"minecraft:bucket"
+    }
+  ],
+
+  "result": {
+    "item": "beer:beer",
+    "count": 1
+  }
+}
+
