@@ -7,8 +7,10 @@
     },
     {
       "item":"minecraft:bucket"
+    },
+    {
+      "item":"minecraft:coal"
     }
-
   ],
 
   "result": {

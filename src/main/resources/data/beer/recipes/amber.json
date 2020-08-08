@@ -7,13 +7,14 @@
     },
     {
       "item":"minecraft:bucket"
+    },
+    {
+      "item":"minecraft:redstone"
     }
-
   ],
 
   "result": {
-    "item": "beer:beer",
+    "item": "beer:amber",
     "count": 1
   }
 }
-

@@ -1,5 +1,8 @@
 {
 
-  "item.beer.beer": "beer"
-
+  "item.beer.beer": "beer",
+  "item.beer.amber": "amber",
+  "item.beer.ipa": "ipa",
+  "item.beer.lager": "lager",
+  "item.beer.stout": "stout"
 }
